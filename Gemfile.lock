@@ -232,7 +232,7 @@ GEM
     public_suffix (3.1.1)
     racc (1.6.0)
     rainbow (3.1.1)
-    rake (13.0.3)
+    rake (13.0.6)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
